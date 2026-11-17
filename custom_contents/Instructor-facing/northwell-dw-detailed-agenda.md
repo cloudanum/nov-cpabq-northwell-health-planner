@@ -13,7 +13,7 @@
 - **Customized Instructor Profile:** [instructor-profile.pdf](instructor-profile/instructor-profile.pdf) | [instructor-profile.docx](instructor-profile/instructor-profile.docx)
 - **Six Live Course Kahoots (60 Questions):** [kahoots/README.md](kahoots/README.md)
 - **Captioned Lab Walkthrough Videos (11 MP4s) & Trainer Prep Links:** [lab-walkthroughs/practice-lab-links.md](lab-walkthroughs/practice-lab-links.md)
-- **Cohort Lab Progress Sheet:** [Lab-Progress-Tracker.xlsx](Lab-Progress-Tracker.xlsx)
+- **Cohort Survey & Live Lab Tracker:** https://survey.anum.cloud ([Google Sheet](https://docs.google.com/spreadsheets/d/1gA36tgWXHf6m_zpWfhFy2IC8Mi-AsFjelbxSzivcr6g/edit?usp=sharing) | [Lab-Progress-Tracker.xlsx](Lab-Progress-Tracker.xlsx))
 
 ## Eight Embedded Course Videos (< 10 Minutes Each)
 

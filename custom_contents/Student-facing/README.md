@@ -12,6 +12,7 @@
 ## Classroom Links and Ground Rules
 
 - **Google Skills Classroom (38842):** [https://www.skills.google/ilt/classrooms/38842](https://www.skills.google/ilt/classrooms/38842) ([Entry Focus 295207](https://www.skills.google/ilt/classrooms/38842/focuses/295207))
+- **Pre-Course Survey & Live Lab Tracker:** [https://survey.anum.cloud](https://survey.anum.cloud)
 - **Microsoft Teams Virtual Classroom:** [https://www.roi-links.com/teams-ROI-17475](https://www.roi-links.com/teams-ROI-17475)
 - **Day 3 Official Course Evaluation (Fri 14:45 ET):** [Submit Course Evaluation](https://cloudlx.sjc1.qualtrics.com/jfe/form/SV_e2wogp4l1a2ByZL?qualtricsID=oylvffxykg)
 - **Ground Rules:** Recording is prohibited. Use only supplied public datasets and synthetic schemas (`curated_encounters`, `mart_capacity_daily`); never upload real PHI, patient, clinician, or confidential Northwell data. Run labs strictly inside temporary Classroom `38842` student projects and do not click **End Lab** early.
